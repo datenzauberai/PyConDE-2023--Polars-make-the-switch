@@ -1,0 +1,5 @@
+argparse
+pyarrow
+polars
+duckdb
+pandas
